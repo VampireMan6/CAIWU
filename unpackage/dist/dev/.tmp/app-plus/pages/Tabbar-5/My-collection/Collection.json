@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "disableScroll": false,
+  "usingComponents": {
+    "collection1": "/pages/Tabbar-5/My-collection/Collection1",
+    "collection2": "/pages/Tabbar-5/My-collection/Collection2",
+    "collection3": "/pages/Tabbar-5/My-collection/Collection3",
+    "collection4": "/pages/Tabbar-5/My-collection/Collection4"
+  }
+}

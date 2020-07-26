@@ -1,0 +1,14 @@
+.container .top-text {
+  padding: 140rpx 130rpx 0 130rpx;
+}
+.container .img-back6 {
+  height: 540rpx;
+}
+.container .imgs {
+  padding: 170rpx 140rpx;
+}
+.container .imgs .img-camera {
+    width: 130rpx;
+    height: 130rpx;
+}
+

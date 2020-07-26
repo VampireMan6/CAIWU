@@ -1,0 +1,19 @@
+.container .img {
+  height: 1070rpx;
+}
+.container .picker1 {
+  height: 76rpx;
+}
+.container .picker1 .img-select {
+    width: 16rpx;
+    height: 24rpx;
+}
+.container .text-view {
+  width: 310rpx;
+  height: 76rpx;
+}
+.container .botton {
+  height: 100rpx;
+  background-color: #F54A35;
+}
+

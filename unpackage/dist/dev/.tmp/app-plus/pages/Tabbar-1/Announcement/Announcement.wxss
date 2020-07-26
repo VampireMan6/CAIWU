@@ -1,0 +1,26 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .return-img {
+  width: 42rpx;
+  height: 42rpx;
+}
+.containers .container .announcement-img {
+  width: 90rpx;
+  height: 36rpx;
+  margin-left: 276rpx;
+}
+.containers .container .content {
+  border: 2rpx solid #E5E5E5;
+}
+.containers .container .content .img {
+    height: 198rpx;
+}
+

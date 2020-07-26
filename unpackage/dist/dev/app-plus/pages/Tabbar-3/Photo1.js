@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container .",[1],"img { height: ",[0,1070],"; }\n.",[1],"container .",[1],"picker1 { height: ",[0,76],"; }\n.",[1],"container .",[1],"picker1 .",[1],"img-select { width: ",[0,16],"; height: ",[0,24],"; }\n.",[1],"container .",[1],"text-view { width: ",[0,310],"; height: ",[0,76],"; }\n.",[1],"container .",[1],"botton { height: ",[0,100],"; background-color: #F54A35; }\n",],undefined,{path:"./pages/Tabbar-3/Photo1.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Tabbar-3/Photo1.wxml') } }));

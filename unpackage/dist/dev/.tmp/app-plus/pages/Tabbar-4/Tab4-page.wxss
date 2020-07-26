@@ -1,0 +1,32 @@
+.containers .container {
+  height: 280rpx;
+  background-color: #000000;
+}
+.containers .container .status_bar {
+    height: var(--status-bar-height);
+    width: 100%;
+}
+.containers .select {
+  top: 210rpx;
+  z-index: 999;
+}
+.containers .select .nav-top {
+    padding: 32rpx 40rpx;
+    height: 100rpx;
+    -webkit-box-shadow: 0rpx 8rpx 12rpx 0 rgba(0, 0, 0, 0.1);
+            box-shadow: 0rpx 8rpx 12rpx 0 rgba(0, 0, 0, 0.1);
+}
+.containers .select .nav-top .img-select {
+      width: 18rpx;
+      height: 24rpx;
+      background-color: #007AFF;
+}
+.containers .scroll .t-td1 .text1 {
+  width: 100rpx;
+}
+.containers .scroll .t-td1 .imgs {
+  width: 20rpx;
+  height: 20rpx;
+  background-color: #007AFF;
+}
+

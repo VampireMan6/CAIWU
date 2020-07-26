@@ -1,0 +1,54 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container {
+  padding: 30rpx 30rpx 0 30rpx;
+}
+.containers .container .status_bar {
+    height: var(--status-bar-height);
+    width: 100%;
+}
+.containers .container .top .view-left {
+    width: 540rpx;
+    height: 120rpx;
+}
+.containers .container .top .view-left .headimg {
+      width: 120rpx;
+      height: 120rpx;
+}
+.containers .container .top .view-right {
+    width: 140rpx;
+    height: 50rpx;
+    background-color: #FF9F4C;
+}
+.containers .container .VIPmembers {
+    height: 100rpx;
+    background-color: #272727;
+    -webkit-box-shadow: 0rpx -8rpx 16rpx 0 rgba(0, 0, 0, 0.3);
+            box-shadow: 0rpx -8rpx 16rpx 0 rgba(0, 0, 0, 0.3);
+}
+.containers .container .bottom-content:not(:last-child)::after {
+    content: '';
+    display: block;
+    margin-bottom: 70rpx;
+}
+.containers .container .bottom-content .right .fist-img {
+    width: 30rpx;
+    height: 26rpx;
+}
+.containers .container .bottom-content .right .enter-img {
+    width: 16rpx;
+    height: 24rpx;
+}
+.containers .bottom-contents .right .fist-img {
+  width: 30rpx;
+  height: 26rpx;
+}
+.containers .bottom-contents .right .enter-img {
+  width: 16rpx;
+  height: 24rpx;
+}
+

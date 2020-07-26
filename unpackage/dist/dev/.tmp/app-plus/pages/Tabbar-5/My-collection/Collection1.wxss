@@ -1,0 +1,12 @@
+.container .view-left {
+  width: 416rpx;
+  height: 136rpx;
+}
+.container .view-left .content-text1 {
+    height: 80rpx;
+}
+.container .view-right {
+  width: 234rpx;
+  height: 136rpx;
+}
+

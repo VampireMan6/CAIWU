@@ -1,0 +1,61 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container {
+  padding: 60rpx 100rpx;
+}
+.containers .container .status_bar {
+    height: var(--status-bar-height);
+    width: 100%;
+}
+.containers .container .return-img {
+    width: 42rpx;
+    height: 42rpx;
+}
+.containers .container .view1 {
+    width: 24rpx;
+    height: 24rpx;
+    background-color: #F54A35;
+    z-index: 1;
+    top: 10rpx;
+    left: 10rpx;
+}
+.containers .container .view2 {
+    width: 12rpx;
+    height: 12rpx;
+    background-color: #FFFFFF;
+    z-index: 999;
+    top: 16rpx;
+    left: 16rpx;
+}
+.containers .container .delete-img {
+    width: 32rpx;
+    height: 32rpx;
+}
+.containers .container .show-hidden {
+    width: 32rpx;
+    height: 24rpx;
+}
+.containers .container .button1 {
+    height: 100rpx;
+    color: #999999;
+    background-color: #E5E5E5;
+}
+.containers .container .button2 {
+    height: 100rpx;
+    color: #FFFFFF;
+    background-color: #F54A35;
+}
+.containers .container .border-4 {
+    width: 164rpx;
+    height: 2rpx;
+    background-color: #E5E5E5;
+}
+.containers .container .weixin-img {
+    width: 60rpx;
+    height: 60rpx;
+}
+

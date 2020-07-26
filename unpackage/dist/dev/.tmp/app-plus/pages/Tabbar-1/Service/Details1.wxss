@@ -1,0 +1,23 @@
+.container .back-img {
+  height: 500rpx;
+}
+.container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.container .return-img {
+  width: 42rpx;
+  height: 42rpx;
+}
+.container .collection-img {
+  width: 48rpx;
+  height: 44rpx;
+}
+.container .share-view {
+  height: 74rpx;
+}
+.container .share-view .share-img {
+    width: 24rpx;
+    height: 24rpx;
+}
+

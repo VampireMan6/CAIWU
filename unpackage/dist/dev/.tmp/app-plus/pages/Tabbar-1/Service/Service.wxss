@@ -1,0 +1,27 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .return-img {
+  width: 42rpx;
+  height: 42rpx;
+}
+.containers .container .announcement-img {
+  width: 168rpx;
+  height: 34rpx;
+  margin-left: 238rpx;
+}
+.containers .container .content {
+  -webkit-box-shadow: 0rpx 4rpx 16rpx 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 0rpx 4rpx 16rpx 0 rgba(0, 0, 0, 0.1);
+}
+.containers .container .content .img {
+    height: 198rpx;
+}
+

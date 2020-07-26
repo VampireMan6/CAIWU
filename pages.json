@@ -1,0 +1,338 @@
+{
+	"pages": [
+		{//首页
+			"path": "pages/Tabbar-1/Tab1-page",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 公司对比
+			"path": "pages/Tabbar-1/Contrast/Contrast",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 公司对比1
+			"path": "pages/Tabbar-1/Contrast/Contrast1",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 公司对比2
+			"path": "pages/Tabbar-1/Contrast/Contrast2",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 报告
+			"path": "pages/Tabbar-1/Report/Report",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 报告1
+			"path": "pages/Tabbar-1/Report/Report1",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 公告
+			"path": "pages/Tabbar-1/Announcement/Announcement",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 公告详情
+			"path": "pages/Tabbar-1/Announcement/Details",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 财务服务
+			"path": "pages/Tabbar-1/Service/Service",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 财务服务 财务服务详情
+			"path": "pages/Tabbar-1/Service/Details1",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 活动
+			"path": "pages/Tabbar-1/Activity/Activity",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//首页 搜索
+			"path": "pages/Tabbar-1/Search",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//上市公司
+			"path": "pages/Tabbar-2/Tab2-page",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{// 上市公司 公司选择
+			"path": "pages/Tabbar-2/Company-select",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false,
+				"backgroundColorTop":"#000000"
+			}
+		},
+		{//上市公司 公司简介
+			"path": "pages/Tabbar-2/Company-message",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//上市公司 公司年度报表
+			"path": "pages/Tabbar-2/AnnualStatement",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//拍照
+			"path": "pages/Tabbar-3/Tab3-page",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{// 我的 拍照录入1
+			"path": "pages/Tabbar-3/Photo1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll":false
+			}
+		},
+		{// 我的 拍照录入2
+			"path": "pages/Tabbar-3/Photo2",
+			"style": {
+				"navigationBarTitleText": "",
+				// "navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//十维度
+			"path": "pages/Tabbar-4/Tab4-page",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false,
+				"transparentTitle":"auto"
+			}
+		},
+		{//我的
+			"path": "pages/Tabbar-5/Tab5-page",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{// 我的 我的头像
+			"path": "pages/Tabbar-5/Headimg",
+			"style": {
+				"navigationBarTitleText": "我的头像",
+				"disableScroll":false
+			}
+		},
+		{// 我的 更改昵称
+			"path": "pages/Tabbar-5/Name",
+			"style": {
+				"navigationBarTitleText": "更改昵称"
+			}
+		},
+		{// 我的 我的公司
+			"path": "pages/Tabbar-5/My-company/My-company",
+			"style": {
+				"navigationBarTitleText": "我的公司"
+			}
+		},
+		{// 我的 我的公司 新建公司
+			"path": "pages/Tabbar-5/My-company/Add-company",
+			"style": {
+				"navigationBarTitleText": "新建公司"
+			}
+		},
+		{// 我的 我的公司 更改信息
+			"path": "pages/Tabbar-5/My-company/Change-company",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{// 我的 我的收藏
+			"path": "pages/Tabbar-5/My-collection/Collection",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{// 我的 报告记录
+			"path": "pages/Tabbar-5/My-report/Report",
+			"style": {
+				"navigationBarTitleText": "报告记录"
+			}
+		},
+		{// 我的 账户设置
+			"path": "pages/Tabbar-5/Set-up/Set-up",
+			"style": {
+				"navigationBarTitleText": "账户设置"
+			}
+		},
+		{// 我的 通知设置
+			"path": "pages/Tabbar-5/Set-up/Notice",
+			"style": {
+				"navigationBarTitleText": "通知设置"
+			}
+		},
+		{// 我的 意见反馈
+			"path": "pages/Tabbar-5/Set-up/Opinion-feedback",
+			"style": {
+				"navigationBarTitleText": "意见反馈"
+			}
+		},
+		{//登录
+			"path": "pages/Login/Login",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//注册
+			"path": "pages/Login/SignIn",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//忘记密码
+			"path": "pages/Login/ForgetPassword",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		},
+		{//绑定账户
+			"path": "pages/Login/Binding-account",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				// "enablePullDownRefresh": true,//开启下拉刷新
+				"disableScroll":false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "caiwu",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#ffffff"
+	},
+	"tabBar": {
+		"color": "#D7D7D7",
+		"selectedColor": "#333333",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/Tabbar-1/Tab1-page",
+				"iconPath": "static/tab-1/tab1-0.png",
+				"selectedIconPath": "static/tab-1/tab1-1.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/Tabbar-2/Tab2-page",
+				"iconPath": "static/tab-1/tab2-0.png",
+				"selectedIconPath": "static/tab-1/tab2-1.png",
+				"text": "上市公司"
+			},
+			{
+				"pagePath": "pages/Tabbar-3/Tab3-page",
+				"iconPath": "static/tab-1/tab3-0.png",
+				"selectedIconPath": "static/tab-1/tab3-1.png"
+			},
+			{
+				"pagePath": "pages/Tabbar-4/Tab4-page",
+				"iconPath": "static/tab-1/tab4-0.png",
+				"selectedIconPath": "static/tab-1/tab4-1.png",
+				"text": "十维度"
+			},
+			{
+				"pagePath": "pages/Tabbar-5/Tab5-page",
+				"iconPath": "static/tab-1/tab5-0.png",
+				"selectedIconPath": "static/tab-1/tab5-1.png",
+				"text": "我的"
+			}
+		]
+	}
+}

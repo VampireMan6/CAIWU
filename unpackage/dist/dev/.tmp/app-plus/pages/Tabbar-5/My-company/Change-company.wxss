@@ -1,0 +1,33 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .sticky-box {
+  position: -webkit-sticky;
+  position: sticky;
+  top: var(--status-bar-height);
+  z-index: 99;
+}
+.containers .container .return-img {
+  width: 42rpx;
+  height: 42rpx;
+}
+.containers .container .logo {
+  width: 200rpx;
+  height: 140rpx;
+}
+.containers .container .enter-img {
+  width: 16rpx;
+  height: 24rpx;
+}
+.containers .container .true {
+  height: 100rpx;
+  background-color: #F54A35;
+}
+

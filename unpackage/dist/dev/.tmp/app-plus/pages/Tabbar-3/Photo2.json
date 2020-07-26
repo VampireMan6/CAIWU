@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "disableScroll": false,
+  "usingComponents": {
+    "page1": "/pages/Tabbar-3/Page1",
+    "page2": "/pages/Tabbar-3/Page2",
+    "page3": "/pages/Tabbar-3/Page3"
+  }
+}

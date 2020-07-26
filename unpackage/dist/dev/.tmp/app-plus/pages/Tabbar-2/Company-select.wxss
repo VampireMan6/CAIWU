@@ -1,0 +1,56 @@
+.container .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #000000;
+  z-index: 999;
+}
+.container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.container .top-back {
+  height: 180rpx;
+  background-color: #000000;
+}
+.container .top-back .back-img {
+    width: 24rpx;
+    height: 44rpx;
+}
+.container .top-back .view-text {
+    width: 660rpx;
+}
+.container .content {
+  top: -84rpx;
+  z-index: 999;
+}
+.container .content .nav-top {
+    padding: 32rpx 40rpx;
+    height: 100rpx;
+    -webkit-box-shadow: 0rpx 8rpx 12rpx 0 rgba(0, 0, 0, 0.1);
+            box-shadow: 0rpx 8rpx 12rpx 0 rgba(0, 0, 0, 0.1);
+}
+.container .content .nav-top .img-select {
+      width: 18rpx;
+      height: 24rpx;
+      background-color: #007AFF;
+}
+.container .content .companyList .view-left {
+    width: 200rpx;
+    height: 140rpx;
+}
+.container .content .companyList .view-right {
+    width: 416rpx;
+    height: 140rpx;
+}
+.container .content .companyList .view-right .view-top {
+      height: 84rpx;
+}
+.container .content .companyList .view-right .view-bottom {
+      height: 48rpx;
+}
+.container .content .companyList .view-right .view-bottom .right {
+        width: 134rpx;
+        color: #F54A35;
+        background-color: rgba(245, 74, 53, 0.1);
+}
+

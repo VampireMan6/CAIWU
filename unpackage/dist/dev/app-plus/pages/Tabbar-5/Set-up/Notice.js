@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container { padding: ",[0,50]," ",[0,40],"; }\n",],undefined,{path:"./pages/Tabbar-5/Set-up/Notice.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Tabbar-5/Set-up/Notice.wxml') } }));

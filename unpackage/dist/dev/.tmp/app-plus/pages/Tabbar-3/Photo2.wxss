@@ -1,0 +1,23 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .return-img {
+  width: 42rpx;
+  height: 42rpx;
+}
+.containers .container .text {
+  padding: 10rpx 30rpx;
+  border: 2rpx solid #E5E5E5;
+}
+.containers .container .click {
+  background-color: #FFFFFF;
+  color: #333333;
+}
+

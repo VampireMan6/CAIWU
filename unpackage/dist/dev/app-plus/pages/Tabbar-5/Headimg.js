@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container { padding: ",[0,220]," ",[0,126],"; }\n.",[1],"container .",[1],"headimg { width: ",[0,500],"; height: ",[0,500],"; }\n.",[1],"container .",[1],"text1 { padding: ",[0,20]," ",[0,60],"; }\n.",[1],"container .",[1],"text2 { padding: ",[0,20]," ",[0,90],"; }\n",],undefined,{path:"./pages/Tabbar-5/Headimg.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Tabbar-5/Headimg.wxml') } }));

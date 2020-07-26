@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container .",[1],"logo { width: ",[0,200],"; height: ",[0,140],"; }\n.",[1],"container .",[1],"logo .",[1],"text-logo { top: ",[0,50],"; left: ",[0,30],"; }\n.",[1],"container .",[1],"enter-img { width: ",[0,16],"; height: ",[0,24],"; }\n.",[1],"container .",[1],"true { height: ",[0,100],"; background-color: #F54A35; }\n",],undefined,{path:"./pages/Tabbar-5/My-company/Add-company.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Tabbar-5/My-company/Add-company.wxml') } }));

@@ -1,0 +1,85 @@
+.containers {
+  height: 100vh;
+}
+.containers .nav {
+    width: 100%;
+    height: var(--status-bar-height);
+    background-color: #FFFFFF;
+    z-index: 999;
+}
+.containers .container .status_bar {
+    height: var(--status-bar-height);
+    width: 100%;
+}
+.containers .container .input {
+    height: 60rpx;
+}
+.containers .container .img-search {
+    width: 30rpx;
+    height: 30rpx;
+    top: 16rpx;
+    left: 60rpx;
+}
+.containers .container .scroll .img {
+    width: 240rpx;
+    height: 120rpx;
+}
+.containers .container .view-text1 {
+    width: 210rpx;
+    height: 82rpx;
+    border: 2rpx solid #E5E5E5;
+}
+.containers .container .classify1, .containers .container .classify2 {
+    height: 180rpx;
+    padding: 0 54rpx 0 30rpx;
+    overflow: hidden;
+}
+.containers .container .classify1 .view-text2, .containers .container .classify2 .view-text2 {
+      height: 74rpx;
+      padding: 20rpx 30rpx;
+      background-color: #F8F8F8;
+}
+.containers .container .classify2 {
+    height: 74rpx;
+}
+.containers .container .financial-data {
+    padding: 10rpx 0;
+    letter-spacing: 4rpx;
+    width: 640rpx;
+    height: 120rpx;
+    border-radius: 80rpx;
+    background-image: -webkit-gradient(linear, right top, left top, from(#333333), to(#000000));
+    background-image: -o-linear-gradient(right, #333333, #000000);
+    background-image: linear-gradient(to left, #333333, #000000);
+}
+.containers .container .tuoyuan {
+    width: 622rpx;
+    height: 12rpx;
+    border-radius: 50%;
+    background-image: -webkit-gradient(linear, right top, left top, from(transparent), color-stop(rgba(0, 0, 0, 0.45)), to(transparent));
+    background-image: -o-linear-gradient(right, transparent, rgba(0, 0, 0, 0.45), transparent);
+    background-image: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.45), transparent);
+}
+.containers .container .view-fixed {
+    top: 400rpx;
+    right: 20rpx;
+    width: 24rpx;
+    height: 936rpx;
+    z-index: 999;
+}
+.containers .container .view-fixed .click {
+      width: 32rpx;
+      height: 32rpx;
+      background-color: #F54A35;
+      color: #FFFFFF;
+}
+.containers .container .company-list {
+    padding: 0 50rpx 0 30rpx;
+}
+.containers .container .company-list .sticky-box {
+      position: -webkit-sticky;
+      position: sticky;
+      top: var(--status-bar-height);
+      z-index: 99;
+}
+

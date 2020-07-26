@@ -1,0 +1,15 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .nav-b .return-img, .containers .container .nav-b .share-img {
+  width: 44rpx;
+  height: 44rpx;
+}
+

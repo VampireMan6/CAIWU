@@ -1,0 +1,45 @@
+.containers {
+  height: 100vh;
+}
+.containers .nav {
+    width: 100%;
+    height: var(--status-bar-height);
+    background-color: #FFFFFF;
+    z-index: 999;
+}
+.containers .container .status_bar {
+    height: var(--status-bar-height);
+    width: 100%;
+}
+.containers .container .return-img {
+    width: 42rpx;
+    height: 42rpx;
+}
+.containers .container .input {
+    width: 626rpx;
+    height: 60rpx;
+    border-radius: 30rpx;
+}
+.containers .container .view-fixed {
+    top: 400rpx;
+    right: 20rpx;
+    width: 24rpx;
+    height: 936rpx;
+    z-index: 999;
+}
+.containers .container .view-fixed .click {
+      width: 32rpx;
+      height: 32rpx;
+      background-color: #F54A35;
+      color: #FFFFFF;
+}
+.containers .container .company-list {
+    padding: 0 50rpx 0 30rpx;
+}
+.containers .container .company-list .sticky-box {
+      position: -webkit-sticky;
+      position: sticky;
+      top: var(--status-bar-height);
+      z-index: 99;
+}
+

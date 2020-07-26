@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container { padding: ",[0,80]," ",[0,76],"; }\n.",[1],"container .",[1],"input { height: ",[0,100],"; }\n.",[1],"container .",[1],"true .",[1],"text { background-color: #F54A35; padding: ",[0,20]," ",[0,90],"; }\n",],undefined,{path:"./pages/Tabbar-5/Name.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Tabbar-5/Name.wxml') } }));

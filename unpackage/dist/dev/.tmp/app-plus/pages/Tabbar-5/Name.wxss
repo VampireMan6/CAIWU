@@ -1,0 +1,11 @@
+.container {
+  padding: 80rpx 76rpx;
+}
+.container .input {
+    height: 100rpx;
+}
+.container .true .text {
+    background-color: #F54A35;
+    padding: 20rpx 90rpx;
+}
+

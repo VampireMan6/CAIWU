@@ -1,0 +1,41 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .mSearch-input-box {
+  height: 60rpx;
+}
+.containers .container .history-search .nav-top .delete-img {
+  width: 40rpx;
+  height: 40rpx;
+}
+.containers .container .keyword-block .attention-img {
+  width: 40rpx;
+  height: 40rpx;
+}
+.containers .container .companyList .view-left {
+  width: 200rpx;
+  height: 140rpx;
+}
+.containers .container .companyList .view-right {
+  width: 416rpx;
+  height: 140rpx;
+}
+.containers .container .companyList .view-right .view-top {
+    height: 84rpx;
+}
+.containers .container .companyList .view-right .view-bottom {
+    height: 48rpx;
+}
+.containers .container .companyList .view-right .view-bottom .right {
+      width: 134rpx;
+      color: #F54A35;
+      background-color: rgba(245, 74, 53, 0.1);
+}
+

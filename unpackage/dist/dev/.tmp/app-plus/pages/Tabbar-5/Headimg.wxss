@@ -1,0 +1,14 @@
+.container {
+  padding: 220rpx 126rpx;
+}
+.container .headimg {
+    width: 500rpx;
+    height: 500rpx;
+}
+.container .text1 {
+    padding: 20rpx 60rpx;
+}
+.container .text2 {
+    padding: 20rpx 90rpx;
+}
+

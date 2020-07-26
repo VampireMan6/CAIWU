@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container .",[1],"top-text { padding: ",[0,140]," ",[0,130]," 0 ",[0,130],"; }\n.",[1],"container .",[1],"img-back6 { height: ",[0,540],"; }\n.",[1],"container .",[1],"imgs { padding: ",[0,170]," ",[0,140],"; }\n.",[1],"container .",[1],"imgs .",[1],"img-camera { width: ",[0,130],"; height: ",[0,130],"; }\n",],undefined,{path:"./pages/Tabbar-3/Tab3-page.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Tabbar-3/Tab3-page.wxml') } }));

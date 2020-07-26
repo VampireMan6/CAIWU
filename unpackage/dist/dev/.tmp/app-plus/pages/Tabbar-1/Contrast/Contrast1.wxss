@@ -1,0 +1,52 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .sticky-box {
+  position: -webkit-sticky;
+  position: sticky;
+  top: var(--status-bar-height);
+  z-index: 99;
+}
+.containers .container .return-img {
+  width: 42rpx;
+  height: 42rpx;
+}
+.containers .container .input {
+  width: 626rpx;
+  height: 60rpx;
+  border-radius: 30rpx;
+}
+.containers .container .picker {
+  width: 570rpx;
+}
+.containers .container .picker .view-picker {
+    padding: 24rpx 30rpx;
+}
+.containers .container .picker1 {
+  padding: 24rpx 30rpx;
+}
+.containers .container .img-select {
+  width: 18rpx;
+  height: 24rpx;
+}
+.containers .container .img-select1 {
+  width: 32rpx;
+  height: 32rpx;
+}
+.containers .container .img-select2 {
+  width: 30rpx;
+  height: 30rpx;
+  border: 2rpx solid #999999;
+}
+.containers .container .start-text {
+  height: 100rpx;
+  background-color: #F54A35;
+}
+

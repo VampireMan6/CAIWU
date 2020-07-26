@@ -1,0 +1,23 @@
+.containers .nav {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #FFFFFF;
+  z-index: 999;
+}
+.containers .container .status_bar {
+  height: var(--status-bar-height);
+  width: 100%;
+}
+.containers .container .return-img {
+  width: 42rpx;
+  height: 42rpx;
+}
+.containers .container .collection-img {
+  width: 48rpx;
+  height: 44rpx;
+}
+.containers .container .share-img {
+  width: 44rpx;
+  height: 44rpx;
+}
+

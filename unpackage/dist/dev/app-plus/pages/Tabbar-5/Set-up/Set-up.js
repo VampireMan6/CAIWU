@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container { padding: ",[0,50]," ",[0,40],"; }\n.",[1],"container .",[1],"enter-img { width: ",[0,16],"; height: ",[0,24],"; }\n",],undefined,{path:"./pages/Tabbar-5/Set-up/Set-up.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Tabbar-5/Set-up/Set-up.wxml') } }));

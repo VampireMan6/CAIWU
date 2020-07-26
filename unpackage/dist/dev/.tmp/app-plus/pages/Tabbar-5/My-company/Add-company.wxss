@@ -1,0 +1,17 @@
+.container .logo {
+  width: 200rpx;
+  height: 140rpx;
+}
+.container .logo .text-logo {
+    top: 50rpx;
+    left: 30rpx;
+}
+.container .enter-img {
+  width: 16rpx;
+  height: 24rpx;
+}
+.container .true {
+  height: 100rpx;
+  background-color: #F54A35;
+}
+

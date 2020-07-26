@@ -1,0 +1,20 @@
+.companyList .view-left {
+  width: 200rpx;
+  height: 140rpx;
+}
+.companyList .view-right {
+  width: 416rpx;
+  height: 140rpx;
+}
+.companyList .view-right .view-top {
+    height: 84rpx;
+}
+.companyList .view-right .view-bottom {
+    height: 48rpx;
+}
+.companyList .view-right .view-bottom .right {
+      width: 134rpx;
+      color: #F54A35;
+      background-color: rgba(245, 74, 53, 0.1);
+}
+

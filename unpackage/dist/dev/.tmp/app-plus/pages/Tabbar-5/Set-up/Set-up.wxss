@@ -1,0 +1,8 @@
+.container {
+  padding: 50rpx 40rpx;
+}
+.container .enter-img {
+    width: 16rpx;
+    height: 24rpx;
+}
+
